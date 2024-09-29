@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727631810 source:c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp3\tp3.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1727277844 source:c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp4\v0\liste-chainee-main.c
+	"liste-chainee.h"
+	<stdlib.h>
+	<stdio.h>
+
+1727277877 c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp4\v0\liste-chainee.h
+	<stdbool.h>
+
+1727648306 source:c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp4\v0\liste-chainee.c
+	"liste-chainee.h"
+	<stdlib.h>
+	<stdio.h>
+
