@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1727940074 source:c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp5\arbre-bin-recherche.c
+	"arbre-bin-recherche.h"
+	<stdlib.h>
+	<stdbool.h>
+
+1727939919 c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp5\arbre-bin-recherche.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1727940097 source:c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp5\main.c
+	"arbre-bin-recherche.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1727901621 source:c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp4\v1\linkedlistproject\linkedlistofstring.c
+	<stdio.h>
+	<string.h>
+	"linkedList.h"
+
+1727901589 c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp4\v1\linkedlistproject\linkedlist.h
+	<stdbool.h>
+
+1727901621 source:c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp4\v1\linkedlistproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1727906974 source:c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp4\v1\listedemusiques\main.c
+	"linkedListOfMusic.h"
+
+1727906433 source:c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp4\v1\listedemusiques\linkedlistofmusic.c
+	"linkedListOfMusic.h"
+
+1727906929 c:\users\tianr\desktop\imt nord europe\langue c\mlod_algoc\tp4\v1\listedemusiques\linkedlistofmusic.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
